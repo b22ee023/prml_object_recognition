@@ -2,7 +2,7 @@
 
 
 Team Members:
-Rohan Regar
-Buddhav Garg (B22ee019)
-Arnava Srivastava
-hiii
+Rohan Regar (B22CS072)<br/>
+Buddhav Garg (B22EE019)<br/>
+Arnava Srivastava (B22AI009)<br/>
+
